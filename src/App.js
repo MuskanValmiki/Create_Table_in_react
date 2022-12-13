@@ -4,6 +4,7 @@ import './App.css'
 function App() {
   return (
     <div className="App">
+      <h1>Static Table create.</h1>
       <table id='table'>
         <th id='td1'>Name</th>
         <th id='td1'>Team Members</th>
